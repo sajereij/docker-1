@@ -1,3 +1,0 @@
-docker top spawning-pool
-
-vai docker logs -f spawning-pool

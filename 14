@@ -1,1 +1,0 @@
-docker run -d --name lair -p 8080:80 -e WORDPRESS_DB_NAME=spawning-pool vai zerglings ja host sp wordpress

@@ -1,4 +1,0 @@
-docker run --hostname my-rabbit --name orbital-command  --network overmind rabbitmq:3
-
-or 
--e RABBITMQ_DEFAULT_USER=kaiku -e RABBITMQ_DEFAULT_PASS=echo rabbitmq:3-management
