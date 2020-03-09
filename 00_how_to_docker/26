@@ -1,0 +1,1 @@
+docker service create --name engineering-bay --network overmind -e OC_USERNAME=kaiku -e OC_PASSWD=echo --replicas=2 42school/engineering-bay
